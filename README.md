@@ -4,7 +4,7 @@ My Contacts is a contact management app to add, edit, delete contacts, call to c
 
 <table>
   <tr>
-    <td>Add Contact</td>
+    <td>## Add Contact</td>
     <td>Edit Contact</td>
   </tr>
   <tr>
