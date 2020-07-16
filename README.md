@@ -8,3 +8,4 @@ My Contacts is a contact management app to add, edit, delete contacts, call to c
 ](url)
 
 ## Edit Contact
+![editContact](https://user-images.githubusercontent.com/62495202/87679733-281b7300-c79a-11ea-967f-2258886a38ac.gif)
