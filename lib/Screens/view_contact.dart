@@ -209,6 +209,7 @@ class _ViewContactState extends State<ViewContact> {
                             color: Colors.red,
                             icon: Icon(Icons.call),
                             iconSize: 35.0,
+                            splashColor: Colors.indigo,
                             onPressed: (){
                               callAction(contact.phone);
                             },
@@ -219,6 +220,7 @@ class _ViewContactState extends State<ViewContact> {
                             color: Colors.red,
                             icon: Icon(Icons.sms),
                             iconSize: 35.0,
+                            splashColor: Colors.indigo,
                             onPressed: (){
                               smsAction(contact.phone);
                             },
@@ -244,6 +246,7 @@ class _ViewContactState extends State<ViewContact> {
                             color: Colors.red,
                             icon: Icon(Icons.edit),
                             iconSize: 30.0,
+                            splashColor: Colors.indigo,
                             onPressed: (){
                               moveToEditScreen(contact.id);
                             },
@@ -254,6 +257,7 @@ class _ViewContactState extends State<ViewContact> {
                             color: Colors.red,
                             icon: Icon(Icons.delete),
                             iconSize: 30.0,
+                            splashColor: Colors.indigo,
                             onPressed: (){
                               deleteContact(contact.id);
                             },
